@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+
+#container{
+    height: 50px;
+    display: flex;
+    background-color: yellowgreen;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#flex_item{
+    background-color: brown;
+    height: fit-content;
+    width: 50px;
+    height: 18px;
+
+    
+}
