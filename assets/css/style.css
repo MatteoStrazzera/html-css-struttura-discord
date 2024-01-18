@@ -29,6 +29,20 @@
     flex-direction: row-reverse;
 }
 
+.big_item{
+    background-color: red;
+    width: 300px;
+    height: 250px;
+
+}
+
+.small_item{
+    background-color: blue;
+    width: 200px;
+    height: 250px;
+
+}
+
 #first_section{
     background-color: aquamarine;
 }
@@ -44,6 +58,19 @@
 #second_section{
     background-color: bisque;
 }
+/* end_second_section */
+
+#third_section{
+    background-color: palegreen;
+}
+/* end_third_section */
+
+#fourth_section{
+    background-color: bisque;
+}
+/* end_fourth_section */
+
+
 
 
 
