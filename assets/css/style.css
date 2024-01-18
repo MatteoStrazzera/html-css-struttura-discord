@@ -16,14 +16,21 @@
     width: 50px;
     height: 18px;
 }
-/* /site_header */
+/* /end_site_header */
 
-#first_flex_container{
+.flex_container{
     display: flex;
     height: 300px;
-    background-color: aquamarine;
     justify-content: center;
     align-items: center;
+}
+
+.reverse{
+    flex-direction: row-reverse;
+}
+
+#first_section{
+    background-color: aquamarine;
 }
 
 #first_flex_item{
@@ -31,6 +38,13 @@
     height: fit-content;
     width: 500px;
     height: 250px;
-
 }
+/* end_first_section */
+
+#second_section{
+    background-color: bisque;
+}
+
+
+
 
