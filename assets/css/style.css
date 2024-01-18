@@ -20,7 +20,7 @@
 
 .flex_container{
     display: flex;
-    height: 300px;
+    height: 400px;
     justify-content: center;
     align-items: center;
 }
@@ -50,7 +50,7 @@
 #first_flex_item{
     background-color: brown;
     height: fit-content;
-    width: 500px;
+    width: 400px;
     height: 250px;
 }
 /* end_first_section */
@@ -70,8 +70,17 @@
 }
 /* end_fourth_section */
 
+#fifth_section{
+    background-color: palevioletred;
+}
 
-
+#fifth_flex_item{
+    background-color: brown;
+    height: fit-content;
+    width: 500px;
+    height: 300px;
+}
+/* end_fifth_section */
 
 
 
